@@ -3,6 +3,6 @@
   It was extremely simple and I didn't particularly like the color context.
 </h1>
 <h1 align="center">
-  <a href="https://astracoder.github.io/curriculumJoao/">✔ Curriculum link ✔</a>
+  <a href="https://astracoder.github.io/curriculum-jhon/">✔ Curriculum link ✔</a>
 </h1>
 
